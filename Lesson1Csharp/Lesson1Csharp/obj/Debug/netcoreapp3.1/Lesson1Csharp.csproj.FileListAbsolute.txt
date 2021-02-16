@@ -1,0 +1,4 @@
+D:\c#\lesson1\Lesson1Csharp\Lesson1Csharp\obj\Debug\netcoreapp3.1\Lesson1Csharp.csprojAssemblyReference.cache
+D:\c#\lesson1\Lesson1Csharp\Lesson1Csharp\obj\Debug\netcoreapp3.1\Lesson1Csharp.AssemblyInfoInputs.cache
+D:\c#\lesson1\Lesson1Csharp\Lesson1Csharp\obj\Debug\netcoreapp3.1\Lesson1Csharp.AssemblyInfo.cs
+D:\c#\lesson1\Lesson1Csharp\Lesson1Csharp\obj\Debug\netcoreapp3.1\Lesson1Csharp.csproj.CoreCompileInputs.cache
